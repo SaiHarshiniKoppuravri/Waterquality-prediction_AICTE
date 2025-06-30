@@ -36,3 +36,4 @@ Internship Type: AICTE Virtual Internship - Edunet Foundation
 Sponsor: Shell
 Duration: June 2025 (1 month)
 Focus Area: Machine Learning in Environmental Monitoring# Waterquality-prediction_AICTE
+"C:\Users\Harshini Koppuravuri\OneDrive\Desktop\DEVI\pollution_model.pkl"
